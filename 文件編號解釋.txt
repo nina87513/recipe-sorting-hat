@@ -1,0 +1,11 @@
+American 8-37 1006-1010
+Chinese 38-157
+French 158-289
+Indian 352-437
+Italian 438-479
+Japanese 480-517
+Korean 1-7 990-995 518-527 996-1000
+Southeast_Asia 528-536 1001-1005 940-989
+Mexican 537-811
+Middle_Eastern 812-878 290-351
+Spanish 879-939
